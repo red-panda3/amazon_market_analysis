@@ -1,4 +1,4 @@
-# 04 Amazon Marketplace Analytics
+#  Amazon Marketplace Analytics
 
 ## Dashboard
 **Included dashboard file:** `Amazon_Marketplace_Analytics_Dashboard.pbix`  
